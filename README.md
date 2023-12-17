@@ -72,12 +72,12 @@ The system is equipped with basic computations (addition, subtraction, multiplic
 <th colspan="2">Visual Basic 6.0 Version</th>
 </tr>
 <tr>
-<td width="420"><img src="" alt="IMG-1"></td>
-<td width="420"><img src="" alt="IMG-2"></td>
+<td width="420"><img src="https://github.com/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment/assets/54527592/ea5a030e-fcae-4c1a-a4cb-88002df51e27" alt="IMG-1"></td>
+<td width="420"><img src="https://github.com/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment/assets/54527592/409c3417-9296-474f-8748-1f8ee936c293" alt="IMG-2"></td>
 </tr>
 <tr>
-<td width="420"><img src="" alt="IMG-3"></td>
-<td width="420"><img src="" alt="IMG-4"></td>
+<td width="420"><img src="https://github.com/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment/assets/54527592/b38171b3-44f4-4737-a2f2-302afc5e342a" alt="IMG-3"></td>
+<td width="420"><img src="https://github.com/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment/assets/54527592/bc61015c-bbef-44ad-80bb-2d2f506b6df8" alt="IMG-4"></td>
 </tr>
 </table>
 
