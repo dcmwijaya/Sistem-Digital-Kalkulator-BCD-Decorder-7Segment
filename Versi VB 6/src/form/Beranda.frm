@@ -18,7 +18,7 @@ Begin VB.Form Beranda
       BackStyle       =   0  'Transparent
       Caption         =   "APLIKASI KALKULATOR BCD DECORDER VISUAL BASIC 6 "
       BeginProperty Font 
-         Name            =   "Anagram NF"
+         Name            =   "Arial"
          Size            =   26.25
          Charset         =   0
          Weight          =   400
@@ -26,7 +26,7 @@ Begin VB.Form Beranda
          Italic          =   0   'False
          Strikethrough   =   0   'False
       EndProperty
-      Height          =   2655
+      Height          =   3375
       Left            =   1560
       TabIndex        =   0
       Top             =   480
