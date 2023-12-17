@@ -56,20 +56,28 @@ The system is equipped with basic computations (addition, subtraction, multiplic
 ## Highlights
 <table>
 <tr>
-<th width="840" colspan="2">C++ Version</th>
+<th colspan="2">C++ Version</th>
 </tr>
 <tr>
-<td><img src="" alt="IMG-1"></td>
-<td><img src="" alt="IMG-2"></td>
+<td width="420"><img src="https://github.com/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment/assets/54527592/7260cb4b-3d55-446b-94cc-0cd71245a409" alt="IMG-1"></td>
+<td width="420"><img src="https://github.com/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment/assets/54527592/6a0ea5da-781c-41d7-8a2b-aac0e06b735c" alt="IMG-2"></td>
+</tr>
+<tr>
+<td width="420"><img src="https://github.com/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment/assets/54527592/5407ec46-de5b-4b40-9f38-2449c67989f8" alt="IMG-3"></td>
+<td width="420"><img src="https://github.com/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment/assets/54527592/3be51971-716f-41ed-835a-bbf40b863399" alt="IMG-4"></td>
 </tr>
 </table>
 <table>
 <tr>
-<th width="840" colspan="2">Visual Basic 6.0 Version</th>
+<th colspan="2">Visual Basic 6.0 Version</th>
 </tr>
 <tr>
-<td><img src="" alt="IMG-3"></td>
-<td><img src="" alt="IMG-4"></td>
+<td width="420"><img src="" alt="IMG-1"></td>
+<td width="420"><img src="" alt="IMG-2"></td>
+</tr>
+<tr>
+<td width="420"><img src="" alt="IMG-3"></td>
+<td width="420"><img src="" alt="IMG-4"></td>
 </tr>
 </table>
 
