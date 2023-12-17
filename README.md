@@ -24,13 +24,13 @@ The system is equipped with basic computations (addition, subtraction, multiplic
 
 ## Download & Install 
 1. Visual Basic 6.0 Enterprise <br><br>
-   ```bash
+   ```
    https://bit.ly/Installer_MS_VB6
    ```
 <br>
 
 2. Dev C++ <br><br>
-   ```bash
+   ```
    https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe
    ```
 
@@ -40,7 +40,7 @@ The system is equipped with basic computations (addition, subtraction, multiplic
 1. Download this repository.<br>
 2. Extract the file and open it with Dev C++.<br>
 3. Run the application program by pressing the F11 key.<br>
-4. Or you can directly run the file called ``` Kalculator_BCD_Decorder_C++.exe ```.
+4. Or you can directly run the file called ``` Kalkulator_BCD_Decorder_C++.exe ```.<br>
 5. Please enjoy [Done].
 
 <br><br>
