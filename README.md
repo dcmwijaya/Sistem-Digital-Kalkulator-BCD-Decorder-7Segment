@@ -13,7 +13,7 @@ The system is equipped with basic computations (addition, subtraction, multiplic
 
 <br><br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Tools | Visual Basic 6.0 Enterprise, Dev C++ |
