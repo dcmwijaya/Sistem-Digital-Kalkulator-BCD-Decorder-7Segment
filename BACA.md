@@ -13,7 +13,7 @@ Sistem ini dilengkapi dengan perhitungan dasar (penjumlahan, pengurangan, perkal
 
 <br><br>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Part | Description |
 | --- | --- |
 | Peralatan | Visual Basic 6.0 Enterprise, Dev C++ |
