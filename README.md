@@ -31,7 +31,7 @@ The system is equipped with basic computations (addition, subtraction, multiplic
    https://bit.ly/Installer_MS_VB6
    ```
 
-   </td></tr></table><br>
+   </td></tr></table>
 
 2. Dev C++ 
 
