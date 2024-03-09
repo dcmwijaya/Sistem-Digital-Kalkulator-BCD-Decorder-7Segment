@@ -9,7 +9,7 @@ The system is equipped with basic computations (addition, subtraction, multiplic
 
 <br>
 
-<img src="https://github.com/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment/assets/54527592/9b43b773-1fb0-40a1-840b-e3e8e87c259e"/>
+<img width="840" src="https://github.com/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment/assets/54527592/9b43b773-1fb0-40a1-840b-e3e8e87c259e"/>
 
 <br><br>
 
@@ -80,6 +80,11 @@ The system is equipped with basic computations (addition, subtraction, multiplic
 <td width="420"><img src="https://github.com/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment/assets/54527592/bc61015c-bbef-44ad-80bb-2d2f506b6df8" alt="IMG-4"></td>
 </tr>
 </table>
+
+<br><br>
+
+## Appreciation
+If you find this work useful, please support it as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
 
 <br><br>
 
