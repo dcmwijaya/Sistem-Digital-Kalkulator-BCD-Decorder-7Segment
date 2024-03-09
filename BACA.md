@@ -92,6 +92,11 @@ Sistem ini dilengkapi dengan perhitungan dasar (penjumlahan, pengurangan, perkal
 
 <br><br>
 
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
+
+<br><br>
+
 ## LISENSI 
 LISENSI MIT - Hak Cipta © 2022 - Devan Cakra Mudra Wijaya
 
