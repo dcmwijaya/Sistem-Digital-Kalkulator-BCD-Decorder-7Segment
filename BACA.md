@@ -9,7 +9,7 @@ Sistem ini dilengkapi dengan perhitungan dasar (penjumlahan, pengurangan, perkal
 
 <br>
 
-<img src="https://github.com/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment/assets/54527592/9b43b773-1fb0-40a1-840b-e3e8e87c259e"/>
+<img width="840" src="https://github.com/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment/assets/54527592/9b43b773-1fb0-40a1-840b-e3e8e87c259e"/>
 
 <br><br>
 
@@ -23,16 +23,25 @@ Sistem ini dilengkapi dengan perhitungan dasar (penjumlahan, pengurangan, perkal
 <br><br>
 
 ## Unduh & Instal
-1. Visual Basic 6.0 Enterprise <br><br>
+1. Visual Basic 6.0 Enterprise 
+
+   <table><tr><td width="810">
+      
    ```
    https://bit.ly/Installer_MS_VB6
    ```
-<br>
 
-2. Dev C++ <br><br>
+   </td></tr></table>
+
+2. Dev C++ 
+
+   <table><tr><td width="810">
+      
    ```
    https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe
    ```
+
+   </td></tr></table>
 
 <br><br>
 
