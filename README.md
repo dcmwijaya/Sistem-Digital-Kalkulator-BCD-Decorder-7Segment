@@ -23,16 +23,25 @@ The system is equipped with basic computations (addition, subtraction, multiplic
 <br><br>
 
 ## Download & Install 
-1. Visual Basic 6.0 Enterprise <br><br>
+1. Visual Basic 6.0 Enterprise 
+
+   <table><tr><td width="810">
+      
    ```
    https://bit.ly/Installer_MS_VB6
    ```
-<br>
 
-2. Dev C++ <br><br>
+   </td></tr></table><br>
+
+2. Dev C++ 
+
+   <table><tr><td width="810">
+      
    ```
    https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe
    ```
+
+   </td></tr></table>
 
 <br><br>
 
