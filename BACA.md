@@ -1,8 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment)
-![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
-![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
+![C](https://img.shields.io/badge/programming-%2300599C.svg?&logo=cplusplus&logoColor=white)
+![VB6](https://img.shields.io/badge/6%20programming-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Sistem-Digital-Kalkulator-BCD-Decorder-7Segment
 Sistem ini dilengkapi dengan perhitungan dasar (penjumlahan, pengurangan, perkalian, dan pembagian). Yang membuatnya berbeda dengan aplikasi lain adalah hasilnya tidak hanya berupa angka tetapi juga ditampilkan dalam bentuk kode 7 Segment, sehingga memudahkan seseorang dalam mempelajari sistem digital ini. Sistem ini tersedia dalam 2 bahasa pemrograman, yaitu C++ dan VB6.
