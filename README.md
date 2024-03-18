@@ -1,8 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Sistem-Digital-Kalkulator-BCD-Decorder-7Segment)
-![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
-![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
+![C](https://img.shields.io/badge/programming-%2300599C.svg?&logo=cplusplus&logoColor=white)
+![VB6](https://img.shields.io/badge/6%20programming-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Sistem-Digital-Kalkulator-BCD-Decorder-7Segment
 The system is equipped with basic computations (addition, subtraction, multiplication, and division). What makes it different from other applications is that the results are not only numerical but also displayed in the form of 7 Segment code, making it easier for someone to learn this digital system. The system is available in 2 programming languages, C++ and VB6.
