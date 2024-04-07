@@ -38,7 +38,7 @@ Sistem ini dilengkapi dengan perhitungan dasar (penjumlahan, pengurangan, perkal
    <table><tr><td width="810">
       
    ```
-   https://onboardcloud.dl.sourceforge.net/project/orwelldevcpp/Setup%20Releases/Dev-Cpp%205.11%20TDM-GCC%204.9.2%20Setup.exe
+   http://bit.ly/DEVC_Installer
    ```
 
    </td></tr></table>
