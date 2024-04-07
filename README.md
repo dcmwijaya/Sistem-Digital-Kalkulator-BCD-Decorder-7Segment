@@ -38,7 +38,7 @@ The system is equipped with basic computations (addition, subtraction, multiplic
    <table><tr><td width="810">
       
    ```
-   http://bit.ly/DEVC_Installer
+   https://bit.ly/DEVC_Installer
    ```
 
    </td></tr></table>
