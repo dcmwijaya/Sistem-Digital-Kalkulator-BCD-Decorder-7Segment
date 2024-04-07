@@ -38,7 +38,7 @@ Sistem ini dilengkapi dengan perhitungan dasar (penjumlahan, pengurangan, perkal
    <table><tr><td width="810">
       
    ```
-   http://bit.ly/DEVC_Installer
+   https://bit.ly/DEVC_Installer
    ```
 
    </td></tr></table>
